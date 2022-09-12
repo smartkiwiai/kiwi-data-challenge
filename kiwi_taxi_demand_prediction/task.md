@@ -1,7 +1,7 @@
 # Kiwi - Taxi Demand Prediction
 ## Problem Definition
 
-Kiwi is a 8x8 grid shaped city. And in this fun city, we have recorded the number of times people call taxis from each grid from `2023-04-01` to `2026-03-31`. Our goal is to predict the number of taxi calls for each grid for each day in the next 2 months `(2026-04-01 to 2026-05-31, inclusive)`.
+Kiwi is a 8x8 grid shaped city. And in this fun city, we have recorded the number of times people call taxis in each grid from `2023-04-01` to `2026-03-31`. Our goal is to predict the number of taxi calls for each grid for each day in the next 2 months `(2026-04-01 to 2026-05-31, inclusive)`.
 
 As *Kiwi* is an imaginary city, the data is synthetic (obtained through a simulation). It is provided in sparse format.
 
