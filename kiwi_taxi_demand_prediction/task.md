@@ -29,7 +29,7 @@ We expect you to submit your `submission.csv` and the code which generates your 
 
 ## Evaluation
 
-Evaluation metric used will be `MAE`. You will be evaluated based on your score and your code quality. 
+`MAE` will be used as the evaluation metric. You will be evaluated based on your score and your code quality. 
 
 ### Disclaimer
 
